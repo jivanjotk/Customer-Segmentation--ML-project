@@ -1,8 +1,10 @@
-# Customer-Segmentation--ML-project
+# Customer-Segmentation for Life Insurance Analysis using Customer Credit Card Data --ML-project
 
 
 ## Introduction:
 This project aims to develop a customer segmentation model to provide personalized recommendations for financial products such as saving plans, loans, and wealth management. The segmentation is based on the usage behavior of approximately 9000 active credit card holders over the last 6 months. The dataset contains 18 behavioral variables per customer.
+## Aim:-
+The business problem selected is related to market segmentation, which in turn aggregation of potential buyers into groups or segments, who have similarities in requirements and who would respond equally to a marketing activity, which could be a promotion or an offer. Market segmentation allows insurance companies to target diverse categories of customers who would identify products and services separately from one another. The data has been acquired from an open-sourced database, which is a customer’s credit card information. It is transactional data related to different customers’ credit cards with 18 behavioral variables.
 
 ## Data Description:
 The dataset summarizes the usage behavior of active credit card holders and is provided at the customer level. It includes 18 behavioral variables.
